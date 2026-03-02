@@ -14,6 +14,6 @@ This is my beginner HTML project.
 
 
 ##  Live Demo
-(Will add link after deploying)
+https://kirubha-15.github.io/first-HTMLproject/
 
 Thank you for visiting my project!
